@@ -7,5 +7,5 @@ def main(event) -> None:
     line 2
     f2 added before line 3
     f3 doing something else
-    line 3
+    line 4
 
