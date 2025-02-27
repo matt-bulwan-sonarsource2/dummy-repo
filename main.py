@@ -4,7 +4,7 @@ def main(event) -> None:
 	print(float(2)==float(2.001))
 	print("String 44")
 	print("String 46")
-	print("String 47")
+	print("String 48")
 
 main({})
 
