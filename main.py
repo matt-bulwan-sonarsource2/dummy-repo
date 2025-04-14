@@ -6,7 +6,7 @@ def main(event) -> None:
 	print("String 49")
 	print("String 499")
 	print("String 299")
-	print("String 302")
+	print("String 303")
 
 main({})
 
