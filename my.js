@@ -13,7 +13,7 @@ function greetUser(name) {
 }
 
 // Call the function with a specific name.
-greetUser("Alice");
+greetUser("Bob");
 
 // Demonstrate a simple arithmetic operation.
 let num1 = 10;
