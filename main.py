@@ -2,7 +2,7 @@ def main(event) -> None:
 	a="as"
 	print("Hello world {}".format(event))
 	print(float(2)==float(2.003))
-	print("String 55889492")
+	print("String 55889493")
 
 main({})
 
