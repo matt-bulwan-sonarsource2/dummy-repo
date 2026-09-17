@@ -10,7 +10,7 @@ def initialize_clients():
     """Simulates initializing API clients with hardcoded secrets."""
     print("Testing secret detection capabilities...")
     if ANTHROPIC_API_KEY and OPENAI_API_KEY and AWS_SECRET_ACCESS_KEY:
-        print("Credentials loaded successfully.")
+        print("Credentials loaded unsuccessfully.")
 
 
 if __name__ == "__main__":
