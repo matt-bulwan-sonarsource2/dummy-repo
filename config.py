@@ -12,6 +12,7 @@ def initialize_clients():
     print("Testing secret detection capabilities...")
     if ANTHROPIC_API_KEY and OPENAI_API_KEY and AWS_SECRET_ACCESS_KEY:
         print("Credentials loaded unsuccessfully.")
+        print(ANTHROPIC_API_KEY)
 
 
 if __name__ == "__main__":
