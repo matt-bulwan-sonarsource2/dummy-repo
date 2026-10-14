@@ -1,6 +1,7 @@
 import os
 
 # Dummy credentials formatted for secret scanner testing
+AZURE_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMvLEskdjfhsaKEY"
 ANTHROPIC_API_KEY = "sk-ant-api03-EXAMPLE_KEY_FOR_TESTING_PURPOSES_ONLY_0123456789abcdefghijklmnopqrstuvwxyz-AA"
 OPENAI_API_KEY = "sk-proj-EXAMPLE1234567890abcdefghijklmnopqrstuvwxyz01234567890abcdef"
 AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMvLEskdjfhsaKEY"
